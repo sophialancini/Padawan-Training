@@ -1,0 +1,17 @@
+.pricebox {
+    height: 200px;
+    width: 300px;  
+}
+
+.logo {
+    height: 86px;
+}
+
+.pricetxt {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(189, 18, 18);
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    margin: 35px;
+}

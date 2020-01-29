@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    color: gray;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}

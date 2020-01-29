@@ -1,0 +1,44 @@
+.origin {
+    display: flex; 
+    flex-direction:column;
+    padding-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.city {
+    font-family: Georgia;
+    font-size: 10px;
+    color: Gray;
+    margin:0;
+    margin-left: 5px;
+}
+
+.airport {
+    font-family: Georgia;
+    font-size: 30px;
+    margin: 0px;
+    color: Gray;
+    display: inline-block;
+}
+.temperature {
+    font-family: "Times New Roman", Times, serif;
+    color: Gray;
+    font-size: 12px;
+    margin: 6px;
+    margin-bottom:10px;
+}
+
+.flag {
+    height: 25px;
+    margin: 5px;
+}
+
+.weathericon {
+    height: 25px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}

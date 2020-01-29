@@ -1,0 +1,11 @@
+.text-box {
+    display: flex;
+    align-items: center;
+}
+
+
+.date {
+    font-family: Georgia;
+    font-size: 16px;
+    color: Gray;
+}

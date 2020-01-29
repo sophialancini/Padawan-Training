@@ -1,0 +1,1 @@
+Build a My Quotes page with three cards using the target picture as model.
